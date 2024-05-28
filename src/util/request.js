@@ -3,9 +3,9 @@ import { Message, MessageBox } from "element-ui";
 import { getToken } from "@/util/auth";
 
 // 创建axios实例
-let baseURL = "/web-vscode/";
+let baseURL = "/web-rust/";
 try {
-  baseURL = process ? process.env?.BASE_API : "/web-vscode/";
+  baseURL = process ? process.env?.BASE_API : "/web-rust/";
 } catch (e) {}
 const service = axios.create({
   baseURL,

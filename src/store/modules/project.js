@@ -100,7 +100,7 @@ export default {
         items: [
           {
             title: "CMS系统",
-            skill: "Egg.js+AntDesignPro+MySQL",
+            skill: "rust.js+AntDesignPro+MySQL",
             link: "wwww.123.com",
           },
         ],
@@ -110,7 +110,7 @@ export default {
         items: [
           {
             title: "CMS系统",
-            skill: "Egg.js+AntDesignPro+MySQL",
+            skill: "rust.js+AntDesignPro+MySQL",
             link: "wwww.123.com",
           },
         ],
@@ -120,7 +120,7 @@ export default {
         items: [
           {
             title: "CMS系统",
-            skill: "Egg.js+AntDesignPro+MySQL",
+            skill: "rust.js+AntDesignPro+MySQL",
             link: "wwww.123.com",
           },
         ],
@@ -130,7 +130,7 @@ export default {
         items: [
           {
             title: "CMS系统",
-            skill: "Egg.js+AntDesignPro+MySQL",
+            skill: "rust.js+AntDesignPro+MySQL",
             link: "wwww.123.com",
           },
           {

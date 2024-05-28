@@ -1,10 +1,10 @@
 {
-  "name": "web-vscode",
+  "name": "web-rust",
   "version": "1.0.3",
-  "description": "VS code学习笔记",
+  "description": "rust 学习笔记",
   "main": "index.js",
   "author": "zhoubichaun@icloud.com",
-  "hommepage": "https://github.com/zhoubichuan/web-vscode/",
+  "hommepage": "https://github.com/zhoubichuan/web-rust/",
   "private": false,
   "license": "MIT",
   "scripts": {

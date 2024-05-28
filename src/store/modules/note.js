@@ -28,10 +28,10 @@ export default {
         name: "Vue相关",
         items: [
           {
-            title: "web-vscode",
+            title: "web-rust",
             skill: "Vuepress",
-            img: "web-vscode",
-            link: "/web-vscode/",
+            img: "web-rust",
+            link: "/web-rust/",
           },
         ],
       },
@@ -80,13 +80,13 @@ export default {
         ],
       },
       {
-        name: "Egg相关",
+        name: "rust相关",
         items: [
           {
-            title: "web-egg",
+            title: "web-rust",
             skill: "Vuepress",
-            img: "web-egg",
-            link: "/web-egg/",
+            img: "web-rust",
+            link: "/web-rust/",
           },
         ],
       },

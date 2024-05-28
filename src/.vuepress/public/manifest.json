@@ -1,10 +1,10 @@
 {
-    "name": "web-vscode",
-    "short_name": "web-vscode",
+    "name": "web-rust",
+    "short_name": "web-rust",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#2196f3",
-    "description": "web-vscode主页",
+    "description": "web-rust主页",
     "theme_color": "blue",
     "icons": [
       {

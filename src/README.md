@@ -5,10 +5,10 @@ heroImage: "/home.png"
 actionText: 先睹为快 →
 actionLink: /base/build/1.config
 pageClass: page_index
-footer: egg相关知识
+footer: rust相关知识
 meta:
   - name: keywords
-    content: egg相关,前端学习,前端笔记
+    content: rust相关,前端学习,前端笔记
 ---
 
 <template>

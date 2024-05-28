@@ -99,10 +99,10 @@ export default {
             link: "https://github.com/zhoubichuan/web-koa",
           },
           {
-            skill: "Egg",
-            ico: "egg",
+            skill: "rust",
+            ico: "rust",
             score: 70,
-            link: "https://github.com/zhoubichuan/web-egg",
+            link: "https://github.com/zhoubichuan/web-rust",
           },
         ],
       },
