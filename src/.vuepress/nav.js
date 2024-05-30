@@ -3,12 +3,12 @@ const nav = [
     text: '基础知识',
     items: [
       {
-        text: '一.rust基础',
-        link: '/base/1.desktop/1.index',
+        text: '一.rust 语言基础',
+        link: '/base/1.rust/1.index',
       },
       {
-        text: '二.基础案例',
-        link: '/base/2.practice/1.docker',
+        text: '二.rust 的工程化',
+        link: '/base/2.engine/1.index',
       },
       {
         text: '三.相关工具',

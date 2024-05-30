@@ -1,5 +1,5 @@
 const sidebar = {
-  '/base/1.desktop/': [
+  '/base/1.rust/': [
     '1.index',
     '2.Jenkins',
     '3.gitlab',
@@ -9,8 +9,8 @@ const sidebar = {
     '7.node',
     '8.express'
   ],
-  '/base/2.practice/': [
-    '1.docker',
+  '/base/2.engine/': [
+    '1.index',
     '2.Jenkins',
     '3.gitlab',
     '4.mongodb',
