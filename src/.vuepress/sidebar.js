@@ -1,13 +1,14 @@
 const sidebar = {
   '/base/1.rust/': [
     '1.index',
-    '2.Jenkins',
-    '3.gitlab',
+    '2.grammar',
+    '3.statement',
     '4.mongodb',
     '5.redis',
     '6.mysql',
     '7.node',
-    '8.express'
+    '8.express',
+    '9.express'
   ],
   '/base/2.engine/': [
     '1.index',
