@@ -1,3 +1,5 @@
 node_modules
 web-rust
 hello_cargo
+main
+main.rs
