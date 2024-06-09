@@ -1,14 +1,19 @@
 const sidebar = {
   '/base/1.rust/': [
-    '1.index',
-    '2.grammar',
-    '3.statement',
-    '4.mongodb',
-    '5.redis',
-    '6.mysql',
-    '7.node',
-    '8.express',
-    '9.express'
+    "1.index",
+    "1.syntax",
+    "2.expression",
+    "3.statement",
+    "4.type",
+    "5.global",
+    "6.sync",
+    "7.async",
+    "8.memory",
+    "9.bug",
+    "10.let",
+    "11.function",
+    "12.require",
+    "13.new",
   ],
   '/base/2.engine/': [
     '1.index',
