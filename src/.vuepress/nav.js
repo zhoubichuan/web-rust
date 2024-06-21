@@ -11,7 +11,7 @@ const nav = [
         link: '/base/2.engine/1.index',
       },
       {
-        text: '三.相关工具',
+        text: '三.简单案例',
         link: '/base/3.knowledge/1.index'
       }
     ]
