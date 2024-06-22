@@ -49,7 +49,7 @@ const sidebar = {
     // '21'
   ],
   '/senior/use/': [
-    '1.recursionAndDynamics',
+    '1.index',
     '2.extend',
     '3.componentCommunication',
     '4.render',
@@ -60,6 +60,9 @@ const sidebar = {
     '9.alert',
     '10.table',
     '11.tree'
+  ],
+  '/senior/npm/': [
+    '1.index',
   ],
   '/source/vue/': [
     '1.preparation',

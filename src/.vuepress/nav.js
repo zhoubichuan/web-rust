@@ -3,15 +3,15 @@ const nav = [
     text: '基础知识',
     items: [
       {
-        text: '一.rust 语言基础',
+        text: '一.语言基础',
         link: '/base/1.rust/1.index',
       },
       {
-        text: '二.rust 的工程化',
+        text: '二.项目工程',
         link: '/base/2.engine/1.index',
       },
       {
-        text: '三.简单案例',
+        text: '三.项目案例',
         link: '/base/3.knowledge/1.index'
       }
     ]
@@ -21,11 +21,11 @@ const nav = [
     items: [
       {
         text: '一.',
-        link: '/senior/use/1.recursionAndDynamics'
+        link: '/senior/use/1.index'
       },
       {
         text: '二.',
-        link: '/senior/typeScript'
+        link: '/senior/npm/1.index'
       },
     ]
   },
