@@ -13,7 +13,7 @@ const sidebar = {
     "10.let",
     "11.function",
     "12.require",
-    "13.new",
+    "13.const",
   ],
   '/base/2.engine/': [
     '1.index',
