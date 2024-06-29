@@ -12,8 +12,9 @@ const sidebar = {
     "9.bug",
     "10.let",
     "11.function",
-    "12.require",
+    "12.mod",
     "13.const",
+    "14.pub",
   ],
   '/base/2.engine/': [
     '1.index',
