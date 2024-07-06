@@ -15,6 +15,8 @@ const sidebar = {
     "12.mod",
     "13.const",
     "14.pub",
+    "15.trait",
+    "16.T",
   ],
   '/base/2.engine/': [
     '1.index',
