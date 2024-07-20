@@ -11,7 +11,7 @@ const sidebar = {
     "8.memory",
     "9.bug",
     "10.let",
-    "11.function",
+    "11.fn",
     "12.mod",
     "13.const",
     "14.pub",
@@ -28,7 +28,7 @@ const sidebar = {
     '7.node',
     '8.express'
   ],
-  '/base/3.knowledge/': [
+  '/base/3.case/': [
     '1.index',
     '1.env',
     '2.docker',

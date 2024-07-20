@@ -3,3 +3,4 @@ web-rust
 hello_cargo
 main
 main.rs
+hello-wasm

@@ -12,7 +12,7 @@ const nav = [
       },
       {
         text: '三.项目案例',
-        link: '/base/3.knowledge/1.index'
+        link: '/base/3.case/1.index'
       }
     ]
   },
