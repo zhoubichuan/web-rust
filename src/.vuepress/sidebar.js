@@ -20,9 +20,9 @@ const sidebar = {
   ],
   '/base/2.engine/': [
     '1.index',
-    '2.Jenkins',
-    '3.gitlab',
-    '4.mongodb',
+    '1.cargo',
+    '2.neon',
+    '3.wasm',
     '5.redis',
     '6.mysql',
     '7.node',
